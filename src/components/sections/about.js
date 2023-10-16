@@ -106,20 +106,15 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Ryan and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2019 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              interest in web development started back in 2019 when I decided to try designing
+              custom websites for my friends!
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Fast-forward to today, and I've had the privilege of working at Bounce Alerts, a group
+              dedicated to bringing users' information, guidance, and real-time advisory on each and
+              every opportunity for making or saving money on the internet. My main focus these days
+              is building accessible, inclusive projects for myself.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
