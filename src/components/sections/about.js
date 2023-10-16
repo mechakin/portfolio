@@ -114,10 +114,10 @@ const About = () => {
               Fast-forward to today, and I've had the privilege of working at Bounce Alerts, a group
               dedicated to bringing users' information, guidance, and real-time advisory on each and
               every opportunity for making or saving money on the internet. My main focus these days
-              is building accessible, inclusive projects for myself.
+              is building accessible, inclusive projects for everyone.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">
