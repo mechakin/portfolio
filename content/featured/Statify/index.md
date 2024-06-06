@@ -3,7 +3,6 @@ date: '2'
 title: 'Statify'
 cover: './demo.png'
 github: 'https://github.com/mechakin/statify'
-external: 'https://statify.pro'
 tech:
   - Next.js
   - Tailwind
