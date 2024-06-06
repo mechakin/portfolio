@@ -3,7 +3,6 @@ date: '3'
 title: 'Couture'
 cover: './demo.png'
 github: 'https://github.com/mechakin/couture'
-external: 'https://coutureshop.xyz'
 tech:
   - React
   - Typescript
